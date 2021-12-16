@@ -19,10 +19,9 @@ body{
     font-family: 'Poppins', sans-serif;
     background-image: url(https://c1.wallpaperflare.com/preview/368/267/753/restaurant-kitchen-chefs-cooks.jpg);
     height:auto;
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: local;
+    background-position: 80%;
+    background-attachment: fixed;
 }
 
 /*  */
